@@ -13,7 +13,7 @@ lang: "en"
 plugins:
 
 # Google Analytics tracking id
-google_analytics_id:
+google_analytics_id: "G-NK6KPS0273"
 
 # HTML Title
 title: "SWNA Links"
